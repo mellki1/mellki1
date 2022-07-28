@@ -7,7 +7,7 @@ Hi 👋, I'm Melquisedeque
 
 ### Connect with me:
 
-[![https://www.linkedin.com/in/melquisedequemsilva/]([https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white))](https://linkedin.com/in/https://www.linkedin.com/in/melquisedequemsilva/)
+[![https://www.linkedin.com/in/melquisedequemsilva/](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
 
 ### Languages and Tools:
 
