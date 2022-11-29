@@ -27,4 +27,3 @@ Hi 👋, I'm Melquisedeque
  [![react](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://reactjs.org/)
  [![spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)](https://spring.io/)
  [![quarkus](https://img.shields.io/badge/Quarkus-000000?style=for-the-badge&logo=quarkus)](https://quarkus.io/)
-![mellki1](https://github-readme-stats.vercel.app/api/top-langs?username=mellki1&show_icons=true&locale=en&layout=compact)
