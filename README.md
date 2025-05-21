@@ -30,4 +30,4 @@ Hi 👋, I'm Melquisedeque
 
 ### 📊 Minhas Atividades no GitHub:
 
-[![Gráfico de Atividade do GitHub de Melquisedeque](https://github-readme-activity-graph.vercel.app/graph?username=mellki1&bg_color=0d1117&color=ffffff&line=007bff&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mellki1&layout=pie)](https://github.com/anuraghazra/github-readme-stats)
