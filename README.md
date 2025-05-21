@@ -29,5 +29,5 @@ Hi 👋, I'm Melquisedeque
 [![quarkus](https://img.shields.io/badge/Quarkus-000000?style=for-the-badge&logo=quarkus)](https://quarkus.io/)
 
 ### 📊 Minhas Atividades no GitHub:
-
+[![Gráfico de Atividade do GitHub de Melquisedeque](https://github-readme-activity-graph.vercel.app/graph?username=mellki1&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mellki1&layout=donut-vertical)](https://github.com/anuraghazra/github-readme-stats)
