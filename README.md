@@ -29,7 +29,7 @@ Hi 👋, I'm Melquisedeque
 [![quarkus](https://img.shields.io/badge/Quarkus-000000?style=for-the-badge&logo=quarkus)](https://quarkus.io/)
 
 ### 📊 Minhas Atividades no GitHub:
-<div align="center">
+<div align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mellki1&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
 
